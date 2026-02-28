@@ -189,6 +189,10 @@ DELETE  /api/equipment/{id}   → Delete equipment
 
 ---
 
+## 🚀 Live Demo
+
+🔗 Frontend: [Click Here to View Live Project](https://timely-chimera-fc89e9.netlify.app/)
+
 # 👩‍💻 Author
 
 Lekha  
